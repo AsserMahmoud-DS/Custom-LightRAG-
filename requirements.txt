@@ -1,0 +1,14 @@
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+llama-index-vector-stores-pinecone
+llama-index-graph-stores-neo4j # Later graphDB implementation if needed
+chromadb # Local implementation of vector DB if needed
+pinecone-client # Vector DB on cloud service
+pypdf
+pdfplumber
+tf-keras
+torch
+transformers
+sentence-transformers
